@@ -1,1 +1,1 @@
-# webprog-js-lab-08
+goit-js-hw-07
